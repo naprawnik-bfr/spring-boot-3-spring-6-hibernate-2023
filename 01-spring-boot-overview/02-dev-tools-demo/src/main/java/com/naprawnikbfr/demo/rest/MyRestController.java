@@ -1,4 +1,4 @@
-package com.naprawnikbfr.demo.springboot3quickstart.demo.rest;
+package com.naprawnikbfr.demo.rest;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.naprawnikbfr.demo.springboot3quickstart.demo;
+package com.naprawnikbfr.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
