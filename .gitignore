@@ -46,6 +46,11 @@ out/
 *.iws
 
 ##############################
+## Subfolder
+##############################
+04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee
+
+##############################
 ## Eclipse
 ##############################
 .settings/
@@ -83,3 +88,22 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+
+##############################
+## Spring Boot - auto generated
+##############################
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
