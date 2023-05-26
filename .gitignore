@@ -49,6 +49,7 @@ out/
 ## Subfolder
 ##############################
 04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee
+05-spring-boot-rest-security/bonus-code-spring-boot-rest-security-jpa-hibernate-bcrypt
 
 ##############################
 ## Eclipse
